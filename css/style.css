@@ -1,0 +1,10 @@
+
+/*css-cascading style sheet*/
+h1{
+font-size:100px;
+color:#FBDF5A;
+text-align:center;
+font-style:italic;
+font-family:gabriola;
+border:10px dotted black;
+}
